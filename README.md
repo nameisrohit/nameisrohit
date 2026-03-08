@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Data+Engineer;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,11 +13,9 @@
 </p>
 
 ## 🚀 About Me  
-Data Analyst with about 2 years of hands-on experience using SQL, Python, Excel, Power BI and Tableau to turn messy data into
-clear insights and practical recommendations for the business. Strong at cleaning and combining data from CSV/Excel, SQL
-databases and JSON APIs, building simple ETL workflows (including on AWS S3), and using statistics and visualisation to answer
-real questions. Enjoys working with non-technical teams, explaining findings in plain language, and steadily improving reports,
-dashboards and data processes to save time and reduce errors.
+Data Engineer with about 2 years of hands-on experience using SQL, Python and cloud tools to build ETL/ELT pipelines and turn
+messy data into clean, reliable datasets for the business. I enjoy solving data problems, improving pipeline performance and data
+quality, and working closely with analysts and data scientists so they have the right data for dashboards and decisions.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://nameisrohit.github.io/)
