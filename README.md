@@ -1,58 +1,57 @@
-## Hi there, I'm Rohit 👋
+# Rohit Yadav 👋
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Data+Engineer;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
-</div>
+**Data Engineer** based in Dublin, Ireland, building reliable data pipelines and analytics solutions.
 
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:rohit.yadav.analytics@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+- 🔭 Currently working on: end‑to‑end data projects (ingestion → transformation → reporting)
+- 💡 Interests: data engineering, analytics engineering, cloud data platforms, dbt
+- 🌐 Portfolio: [https://nameisrohit.github.io](https://nameisrohit.github.io)
+- 💼 Open to: Data Engineer / Analytics Engineer roles
+- 📫 Reach me: your.email@example.com
 
-## 🚀 About Me  
-Data Engineer with about 2 years of hands-on experience using SQL, Python and cloud tools to build ETL/ELT pipelines and turn
-messy data into clean, reliable datasets for the business. I enjoy solving data problems, improving pipeline performance and data
-quality, and working closely with analysts and data scientists so they have the right data for dashboards and decisions.
+---
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://nameisrohit.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+## 🔧 Tech Stack
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Data Engineering:** SQL, ETL/ELT, data modeling (star & snowflake), batch pipelines  
+- **Analytics & BI:** Power BI, Tableau, Looker Studio, DAX, Power Query  
+- **Programming:** Python (Pandas, NumPy), Bash, Git & GitHub  
+- **Other:** Linux basics, CI/CD fundamentals
 
-## 🌱 Currently Learning 
+---
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+## 📂 Highlighted Projects
 
-## 🛠️ Technical Skillset
+### 1. Batch ETL Pipeline for Sales Analytics
+Data pipeline that ingests CSV/API data into PostgreSQL, runs data quality checks, and feeds a Power BI sales dashboard.
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+- Stack: Python, Airflow, PostgreSQL, Power BI  
+- Repo: `[link to repo when ready]`  
+- Live dashboard: `[link if public]`
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
+### 2. Customer Churn Insights Dashboard
+Dimensional model and dashboard to track churn, retention cohorts, and revenue impact.
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
+- Stack: SQL, data modeling, Power BI  
+- Repo: `[link to repo when ready]`
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+### 3. Survey Reporting Automation
+Automated cleaning, aggregation, and scheduled export of survey reports.
+
+- Stack: Python (Pandas), Excel  
+- Repo: `[link to repo when ready]`
+
+---
+
+## 📊 What you’ll find here
+
+- End‑to‑end data projects (pipelines + models + reports)  
+- Reproducible notebooks and scripts with clear documentation  
+- Experiments with better practices for data engineering and analytics
+
+---
+
+## 🤝 Let’s connect
+
+- LinkedIn: [linkedin.com/in/rohit-yadav-1047811a4](https://www.linkedin.com/in/rohit-yadav-1047811a4)  
+- GitHub Pages portfolio: [nameisrohit.github.io](https://nameisrohit.github.io)
+
