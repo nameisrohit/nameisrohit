@@ -6,7 +6,7 @@
 - 💡 Interests: data engineering, analytics engineering, cloud data platforms, dbt
 - 🌐 Portfolio: [https://nameisrohit.github.io](https://nameisrohit.github.io)
 - 💼 Open to: Data Engineer / Analytics Engineer roles
-- 📫 Reach me: your.email@example.com
+- 📫 Reach me: rohit.yadav.analytics@gmail.com
 
 ---
 
