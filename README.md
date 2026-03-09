@@ -21,7 +21,7 @@
 
 ## 📂 Highlighted Projects
 
-### 1. Batch ETL Pipeline for Sales Analytics
+### 1. Web Retail Revenue Data Warehouse & BI Solution
 Data pipeline that ingests CSV/API data into PostgreSQL, runs data quality checks, and feeds a Power BI sales dashboard.
 
 - Stack: Python, Airflow, PostgreSQL, Power BI  
