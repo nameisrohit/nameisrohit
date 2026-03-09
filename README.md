@@ -52,6 +52,6 @@ Automated cleaning, aggregation, and scheduled export of survey reports.
 
 ## 🤝 Let’s connect
 
-- LinkedIn: [linkedin.com/in/rohit-yadav-1047811a4](https://www.linkedin.com/in/rohit-yadav-1047811a4)  
+- LinkedIn: [linkedin.com/in/rohit-yadav-1047811a4](https://www.linkedin.com/in/rohit-yadav-1047811a4/)  
 - GitHub Pages portfolio: [nameisrohit.github.io](https://nameisrohit.github.io)
 
