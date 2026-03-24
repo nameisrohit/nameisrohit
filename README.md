@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on: end‑to‑end data projects (ingestion → transformation → reporting)
 - 💡 Interests: data engineering, analytics engineering, cloud data platforms, dbt
-- 🌐 Portfolio: [https://nameisrohit.github.io](https://nameisrohit.github.io)
+- 🌐 Portfolio: [rohityadav.ie](https://rohityadav.ie)
 - 💼 Open to: Data Engineer / Analytics Engineer roles
 - 📫 Reach me: rohit.yadav.analytics@gmail.com
 
