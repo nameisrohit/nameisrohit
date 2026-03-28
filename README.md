@@ -19,34 +19,7 @@
 
 ---
 
-## 📂 Highlighted Projects
 
-### 1. Web Retail Revenue Data Warehouse & BI Solution
-Data pipeline that ingests CSV/API data into PostgreSQL, runs data quality checks, and feeds a Power BI sales dashboard.
-
-- Stack: Python, Airflow, PostgreSQL, Power BI  
-- Repo: `[link to repo when ready]`  
-- Live dashboard: `[link if public]`
-
-### 2. Customer Churn Insights Dashboard
-Dimensional model and dashboard to track churn, retention cohorts, and revenue impact.
-
-- Stack: SQL, data modeling, Power BI  
-- Repo: `[link to repo when ready]`
-
-### 3. Survey Reporting Automation
-Automated cleaning, aggregation, and scheduled export of survey reports.
-
-- Stack: Python (Pandas), Excel  
-- Repo: `[link to repo when ready]`
-
----
-
-## 📊 What you’ll find here
-
-- End‑to‑end data projects (pipelines + models + reports)  
-- Reproducible notebooks and scripts with clear documentation  
-- Experiments with better practices for data engineering and analytics
 
 ---
 
